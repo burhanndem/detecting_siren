@@ -6,3 +6,8 @@ A project that detecting if the signal is ambulance siren or firetruck siren, fo
 Download and open "C14_PROJE_KOD.ipynb" notebook. Then run all cells
 
 # screenshots
+![detecting_sirene](https://user-images.githubusercontent.com/41504195/85922830-dbc1cf00-b88e-11ea-8b44-011a38df92c5.PNG)
+
+# contributors
+-Batuhan DEDEOGLU @PrintfBatuhan
+-Burhan DEMİRTAŞ @burhanndem
